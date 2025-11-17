@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/what-tayla-doesn-t-know-according-to-chad/"}
+{"dg-publish":true,"dg-permalink":"what-tayla-doesnt-know","permalink":"/what-tayla-doesnt-know/","title":"What Tayla Doesn't Know (according to Chad)","hide":true}
 ---
 
 
----
 
 # 🗂️ Understanding How File Access _Actually_ Works in Chat Sessions
 
