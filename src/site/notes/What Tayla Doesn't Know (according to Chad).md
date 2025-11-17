@@ -11,7 +11,6 @@ This system behaves very differently from a normal shared project folder.
 Even though uploads appear in a “project files” panel, **each chat session is isolated**, and files do not automatically carry over with full readable content.
 
 This leads to confusion, so here is the clearest explanation possible.
----
 
 ## ## 🔐 1. Conversations Do _Not_ Persist Across Sessions
 
@@ -57,3 +56,5 @@ Because the system treats each chat as an isolated sandbox, and the assistant ca
 It’s less like “a shared project folder”  
 and more like  
 “a separate virtual workspace per chat that happens to show the same file list.”
+
+![attachments/Pasted image 20251117151111.png](/img/user/attachments/Pasted%20image%2020251117151111.png)
