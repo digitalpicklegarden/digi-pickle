@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recommended-yt-s/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/recommended-yt-s/"}
 ---
 
 
@@ -48,6 +48,7 @@ I mean, you knew this would be here.
 The honesty and also laughs we genuinely need. 
 - [The Daily Show](https://www.youtube.com/@TheDailyShow)
 MSM does not have your back. Time and time again history has shown the government does enjoy quite a bit of propaganda. Everything from Walt Disney working with the CIA & FBI to create war propaganda and then anti-communism propaganda to every story you see or read needing to follow *their* narratives instead of actual reality. So, don't put your trust in puppets. Let the professionals take this one. 
+
 ## Decolonize & Unlearn
 - [Black In Time History](https://www.youtube.com/@blackintimehistory)
 Facts and stories about notable figures in Black History.
@@ -59,6 +60,7 @@ Black Culture Unlocked is a brand focused on bringing the raw truth and real his
 Originally tuned in for her episode on the book Decolonizing Therapy by Jennifer Mullan. Naturally if you search for Jennifer Mullan on YT the top hits are Whitey McWhiterson's but if you include the name of the book in the search you can learn more about Dr Mullan. Also her website [Decolonizing Therapy® – With Dr. Jennifer Mullan](https://www.decolonizingtherapy.com/) is genuinely brimming with valuable information and she does zoom sessions for ongoing education. Then the channel host I'm linking to here, Dr Thema is another gorgeous wealth of information with hundreds of episodes that speak truths. Both of these women are admirable, incredible humans who value life and don't just say that, they show it.
 - [An Indigenous Peoples' History of the United States - Wikipedia](https://en.wikipedia.org/wiki/An_Indigenous_Peoples%27_History_of_the_United_States)
 Okay not actually a YT channel but a book plug - this is extremely important for basically anyone who's ancestors didn't give birth on what is now North America? Like, it's a call to wake up y'all. 
+
 ## True Crime
 - [Rotten Mango](https://www.youtube.com/@rottenmangopod)
 She is from South Korea and works with a team of translators to bring true crime not seen otherwise. She tells captivating stories acknowledging peoples lived experiences, emotions and puts you very much in the moment. Some are hard to listen to & hear but she honors the victims beautifully as she captures their final moments. 
