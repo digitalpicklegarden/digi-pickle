@@ -1,13 +1,30 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+    background-image: url("src/site/img/SheWillBeLoved.jpg");
+    background-size: 450px;          /* size of your square image */
+    background-repeat: no-repeat;    /* no tiles */
+    background-position: center top; /* centered horizontally */
+    background-attachment: fixed;    /* stays in place when scrolling */
+    opacity: 1 !important;           /* keep body text full strength */
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: inherit;
+    background-size: inherit;
+    background-repeat: inherit;
+    background-position: inherit;
+    opacity: 0.25;                    /* <-- adjust transparency here */
+    z-index: -1;                      /* behind everything */
+}
+
+body {
+    font-size: 16px !important;
+    line-height: 1.6 !important;
+    background-color: white !important;
+    color: black !important;
 }
