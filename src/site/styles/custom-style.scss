@@ -1,30 +1,44 @@
+/* ===== Custom styles for The Pickle Garden ===== */
+
+/* Base text + page background */
 body {
-    background-image: url("src/site/img/SheWillBeLoved.jpg");
-    background-size: 450px;          /* size of your square image */
-    background-repeat: no-repeat;    /* no tiles */
-    background-position: center top; /* centered horizontally */
-    background-attachment: fixed;    /* stays in place when scrolling */
-    opacity: 1 !important;           /* keep body text full strength */
+    font-size: 15px !important;       /* normal text size */
+    line-height: 1.6 !important;      /* comfortable spacing */
+    background-color: #ffffff !important;
+    color: #111111 !important;
 }
 
-body::before {
-    content: "";
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image: inherit;
-    background-size: inherit;
-    background-repeat: inherit;
-    background-position: inherit;
-    opacity: 0.25;                    /* <-- adjust transparency here */
-    z-index: -1;                      /* behind everything */
+/* Headings */
+h1 {
+    font-size: 26px !important;
+    line-height: 1.3 !important;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
 }
 
-body {
-    font-size: 16px !important;
-    line-height: 1.6 !important;
-    background-color: white !important;
-    color: black !important;
+h2 {
+    font-size: 21px !important;
+    line-height: 1.3 !important;
+    margin-top: 1.25rem;
+    margin-bottom: 0.5rem;
+}
+
+h3 {
+    font-size: 18px !important;
+    line-height: 1.3 !important;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Paragraphs and list items */
+p,
+li {
+    font-size: 15px !important;
+}
+
+/* Optional: slightly narrower content column for easier reading */
+main,
+.dg-page {
+    max-width: 800px;
+    margin: 0 auto;
 }
